@@ -13,12 +13,22 @@ p{
     color:blueviolet;
 }
 body{
-    background-color: cornflowerblue ;
-    background-image: url('../assets/horse.jpg');
+    background-color: cornflowerblue;
+    background-image:none ;
     background-repeat: no-repeat;
     background-position: top right;
     background-position: top left;
     background-position:top center;
     background-position:top right;
     background-position:top left;
+}
+
+div{
+    background-image:url('../assets/horse.jpg');
+    background-repeat: no-repeat;
+    background-position: top right;
+    
+    
+    height: 500px;
+
 }
