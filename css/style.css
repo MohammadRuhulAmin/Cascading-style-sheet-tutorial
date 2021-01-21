@@ -12,3 +12,13 @@ h1{
 p{
     color:blueviolet;
 }
+body{
+    background-color: cornflowerblue ;
+    background-image: url('../assets/horse.jpg');
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-position: top left;
+    background-position:top center;
+    background-position:top right;
+    background-position:top left;
+}
