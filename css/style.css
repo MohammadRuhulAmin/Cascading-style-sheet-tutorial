@@ -160,3 +160,42 @@
 
 
 }
+
+table,td,th{
+
+    border:1px solid;
+    margin-left: 25px;
+    margin-right: 60px;
+    margin-top:25px;
+    margin-bottom: 25px;
+}
+table{
+    width: 70%;
+    border-collapse: collapse;
+    text-align: center;
+}
+td{
+    padding:5px;
+}
+
+.div-inline-left{
+    display: inline-block;
+
+}
+
+.div-inline-right{
+    background-position: right;
+    display: inline-block;
+    width: 10px;
+   
+    background-color: yellow;
+    border-style: 5px solid;
+    border-radius: 10px;
+    border-color: black;
+
+}
+
+ul li{
+    display: inline-block;;
+    
+}
