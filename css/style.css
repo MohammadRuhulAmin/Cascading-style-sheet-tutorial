@@ -37,3 +37,26 @@
     padding-right: 25px;
     padding-bottom: 25px;
 }
+
+.paragraph{
+    color: red;
+    text-align: center;
+    text-align: right;
+    text-align: justify;
+
+}
+
+.my-div{
+    border: 1px;
+    border-color: solid;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-right: 40px;
+    width: 1200px;
+    height: 500px;
+    text-decoration: underline;
+    text-decoration: line-through;
+
+
+
+}
