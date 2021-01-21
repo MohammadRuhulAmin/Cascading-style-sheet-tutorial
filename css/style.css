@@ -19,6 +19,21 @@
     margin-left: 40px;
     margin-top:50px;
     margin-bottom:50px;
-    margin:50px auto;
+    /* margin:50px auto; */
     
+}
+
+.padding-tutorial{
+    width: 500px;
+    height:500px;
+    border-style:solid;
+    margin-left: 60px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-top:     40px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
 }
