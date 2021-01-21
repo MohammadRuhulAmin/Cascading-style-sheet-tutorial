@@ -2,9 +2,11 @@ H2{
     color:blue;
     text-align: center;
 }
+
 h3{
     color:green;
 }
+
 h1{
     color:red;
 }
@@ -13,22 +15,28 @@ p{
     color:blueviolet;
 }
 body{
-    background-color: cornflowerblue;
-    background-image:none ;
-    background-repeat: no-repeat;
-    background-position: top right;
-    background-position: top left;
-    background-position:top center;
-    background-position:top right;
-    background-position:top left;
+
+    background:#000 url('../assets/horse.jpg') no-repeat top center /200px 200px;
+
 }
 
-div{
-    background-image:url('../assets/horse.jpg');
-    background-repeat: no-repeat;
-    background-position: top right;
-    
-    
-    height: 500px;
 
+
+
+.information1{
+    height:500px;
+    width: 500px;
+    text-align: center;
+    background-color:cadetblue;
+    background-position: top left;
+    background:fixed;
+}
+
+.information2{
+
+    height:500px;
+    width: 500px;
+    text-align: center;
+    background-color:cadetblue;
+    background-position: top right;
 }
