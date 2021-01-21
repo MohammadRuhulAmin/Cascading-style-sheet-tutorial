@@ -150,3 +150,13 @@
 .button-info:hover{
 
 }
+
+.ul-style{
+    /*list-style-type:square;*/
+
+    list-style-image: ;
+    list-style-position: outside;
+    list-style: square inside  url('../assets/horse.jpg');
+
+
+}
