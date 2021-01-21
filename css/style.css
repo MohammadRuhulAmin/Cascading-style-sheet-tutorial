@@ -1,42 +1,7 @@
-H2{
-    color:blue;
-    text-align: center;
-}
-
-h3{
-    color:green;
-}
-
-h1{
-    color:red;
-}
-
-p{
-    color:blueviolet;
-}
-body{
-
-    background:#000 url('../assets/horse.jpg') no-repeat top center /200px 200px;
-
-}
-
-
-
-
-.information1{
-    height:500px;
-    width: 500px;
-    text-align: center;
-    background-color:cadetblue;
-    background-position: top left;
-    background:fixed;
-}
-
-.information2{
-
-    height:500px;
-    width: 500px;
-    text-align: center;
-    background-color:cadetblue;
-    background-position: top right;
+.my-div{
+    border-width: 5px 20px ;
+    border-style: solid; 
+    border-color:red;
+    border-radius: 5px;
+   
 }
