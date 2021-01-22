@@ -52,3 +52,11 @@
 	right: 0px;
 	position: sticky;
 }
+
+.corner-text{
+	position:fixed;
+	bottom:0px;
+	right: 0px;
+	margin-right: 10px;
+	
+}
