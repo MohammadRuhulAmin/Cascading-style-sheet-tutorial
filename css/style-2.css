@@ -1,0 +1,32 @@
+.green-box-1{
+    width: 200px;
+    height: 200px;
+    border-radius: 300px;
+    background:green;
+    position: absolute;
+    top:0;
+    bottom: 0;left:0;
+    right: 0;
+    margin: auto;
+
+}
+
+.green-box-2{
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	background:green;
+	top:0;
+	right:0;
+
+}
+
+.green-box-3{
+	width: 30px;
+	height: 40px;
+	position: absolute;
+	top:15px;
+	left: 50px;
+
+	background:yellow;
+}
