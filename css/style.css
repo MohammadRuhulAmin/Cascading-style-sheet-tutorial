@@ -276,3 +276,16 @@ tr:hover{
     background:green;
     position: absolute;
 }
+
+.over-flow{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+    max-width: 300px;
+    max-height: 300px;
+
+    border:1px solid ;
+    overflow: scroll;
+}
