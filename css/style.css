@@ -377,17 +377,20 @@ li:hover{
 .information{
     display:inline-block;
     margin:20px;
-   
 }
 
-div > p{
+/* div > p{
     background-color: crimson;
 }
 
 div + p{
-    background-color: crimson;
-}
+    background-color: rgb(216, 182, 189);
+} */
 
-h2:nth-child(){
-    
+/* h2:nth-child(){
+
+} */
+
+.my-opacity:hover{
+    opacity: 0.5;
 }
