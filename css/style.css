@@ -324,3 +324,27 @@ tr:hover{
     clear: left;
     clear: right;
 }
+
+.box{
+    height: 200px;
+    background: royalblue;
+    float: left;
+
+
+}
+.box1{
+    background-color: seagreen;
+    width: 25%;
+}
+.box2{
+    background-color: sienna;
+    width: 25%;
+}
+.box3{
+    background-color: slateblue;
+    width: 25%;
+}
+.box4{
+    background-color: teal;
+    width: 25%;
+}
