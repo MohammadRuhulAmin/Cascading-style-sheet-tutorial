@@ -289,3 +289,29 @@ tr:hover{
     border:1px solid ;
     overflow: scroll;
 }
+
+.image-item{
+    width: 500px;
+    height: 300px;
+    border: black;
+    background-color: cadetblue;
+    border-style: solid;
+    border-radius: 25px;;
+ 
+    margin-right: 25px;;
+    float:left;
+    /* float:none;
+    float:left; float has three property */
+}
+
+.design-text{
+    
+    width: 500px;
+    height: 300px;
+    border: black;
+    background-color: cadetblue;
+    border-style: solid;
+    border-radius: 25px;;
+    float:right;
+    margin-right: 25px;;
+}
