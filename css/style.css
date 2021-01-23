@@ -305,7 +305,7 @@ tr:hover{
 }
 
 .design-text{
-    
+
     width: 500px;
     height: 300px;
     border: black;
@@ -314,4 +314,13 @@ tr:hover{
     border-radius: 25px;;
     float:right;
     margin-right: 25px;;
+
+
+    
+}
+
+.space-clear{
+    clear:both;
+    clear: left;
+    clear: right;
 }
