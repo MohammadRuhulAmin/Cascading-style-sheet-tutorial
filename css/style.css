@@ -209,10 +209,10 @@ td{
 
 }
 
-ul li{
+/* ul li{
 
     display: inline-block;
-}
+} */
 
 .my-table{
 
@@ -347,4 +347,35 @@ tr:hover{
 .box4{
     background-color: teal;
     width: 25%;
+}
+ul li{
+    /* float:right; */
+    display: inline-block;
+    padding:20px;
+    font-size: 25px;;
+    margin-right: 25px;;
+    background-color: thistle;
+    border-radius: 15px;
+}
+
+li:hover{
+    background-color: yellow;
+    border-style:  solid;
+}
+
+.important-staff{
+    width: 500px;
+    height: 400px;
+    background-color: burlywood;
+    border-radius: 5px;
+    border-style: solid;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+
+.information{
+    display:inline-block;
+    margin:20px;
+   
 }
