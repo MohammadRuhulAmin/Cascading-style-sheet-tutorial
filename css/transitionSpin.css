@@ -1,0 +1,15 @@
+.spin{
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 1s , height 1s ,transform 0.5s;
+    margin:25px;
+}
+
+.spin:hover{
+    width: 200px;
+    height: 200px;
+    transform: rotate(30deg);
+
+
+}
