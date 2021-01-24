@@ -1,0 +1,15 @@
+.box-transitions{
+    width: 100px;;
+    height: 200px;
+    background-color: red;
+    /* transition:width 3s,height 4s; all together */
+    transition:width 3s;
+    transition:height 3s;
+    
+    overflow: scroll;
+}
+
+.box-transitions:hover{
+    width: 300px;
+    height: 400px;
+}
