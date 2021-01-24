@@ -1,0 +1,18 @@
+.grid-container{
+    display:grid;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    /* grid-gap:20px 30px; it works first row and then colum both */
+    grid-template-columns: auto auto auto;
+    background-color: sandybrown;
+    padding:10px;
+    margin:10px;
+}
+
+.grid-item{
+    border:2px solid;
+    padding:20px;
+    text-align: center;
+   
+
+}
